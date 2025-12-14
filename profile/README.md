@@ -1,8 +1,14 @@
-# .github
-Profile
+# Automotive Embedded SW LAB
 
-Embedded Developers
+## Projects
+- [STM32 기반 모의 ECU 구현 프로젝트](https://github.com/ProjectKHSJ-EmbeddedVehicleSystem/Project_2025Vehicle_System)
+- [STM32 nucleo f103rb Board Bring-Up]()
 
-S/W : 이형우 , 우동관
 
-F/W : 강석준 , 황석준 , 최보정 , 김찬수
+## Developers
+- Kang Seokjun
+- Park Kwanho
+- Kim Dahyeon
+- Kwon Dohyeong
+- Hwang Seokjun
+- Choo Hyunsoo
